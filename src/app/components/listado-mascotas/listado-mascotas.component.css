@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+}
+
+.title {
+    background-color: #e8e8e8;
+    padding: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    font-weight: bold;
+    margin: auto;
+}
+
+.container {
+    margin: 0 20%;
+}
+
+td, th {
+    width: 15%;
+}
+
+mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
