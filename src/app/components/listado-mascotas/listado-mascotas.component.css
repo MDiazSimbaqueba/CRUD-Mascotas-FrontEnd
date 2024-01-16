@@ -26,3 +26,8 @@ mat-form-field {
     font-size: 14px;
     width: 100%;
 }
+
+.delete {
+    cursor: pointer;
+    color: #e15639;
+}
